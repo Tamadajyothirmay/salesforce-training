@@ -92,10 +92,10 @@ A company discussing software purchase with a client is considered an Opportunit
 
 ## 4. Real-World Mapping
 Example: College Admission System
-Salesforce Object	Real-World Mapping
-Account	College
-Contact	Student or Parent
-Opportunity	Student Admission Process
+Salesforce Object	|Real-World Mapping
+Account          	|College
+Contact	          |Student or Parent
+Opportunity	      |Student Admission Process
 Explanation
 Account → Represents the college or educational institution.
 Contact → Represents the student or parent associated with the college.
