@@ -1,15 +1,15 @@
-1. Difference Between App, Object, Record, and Field
-App
+#1. Difference Between App, Object, Record, and Field
+##App
 
 An App in Salesforce is a collection of tabs, objects, and features designed for a specific business process.
 Example: College Management App.
 
-Object
+##Object
 
 An Object is like a database table that stores related data.
 Example: Student Object.
 
-Record
+##Record
 
 A Record is a single entry inside an object.
 Example: A student named Rahul Kumar.
@@ -19,35 +19,36 @@ Field
 A Field stores a specific piece of information in a record.
 Example: Student Name, Roll Number, Phone Number.
 
-2. Standard vs Custom Objects
-Standard Objects
+#2. Standard vs Custom Objects
+##Standard Objects
 
 Standard objects are already provided by Salesforce for common business processes.
 Examples include Account, Contact, Opportunity, and Lead.
 
-Custom Objects
+##Custom Objects
 
 Custom objects are created by users according to business requirements.
 Examples include Student__c, Faculty__c, Course__c, and Attendance__c.
 
 Standard objects cannot be deleted easily, while custom objects can be modified according to business needs.
 
-3. College Data Model
-Objects Used
-Standard Objects
-Account
-Contact
-Custom Objects
-Student__c
-Faculty__c
-Course__c
-Department__c
-Attendance__c
-Relationships
-One Department can have many Courses.
-One Faculty member can teach many Courses.
-Students enroll in Courses.
-One Student can have many Attendance records.
+#3. College Data Model
+##Objects Used
+###Standard Objects
+-Account
+-Contact
+###Custom Objects
+-Student__c
+-Faculty__c
+-Course__c
+-Department__c
+-Attendance__c
+---
+##Relationships
+->One Department can have many Courses.
+->One Faculty member can teach many Courses.
+->Students enroll in Courses.
+->One Student can have many Attendance records.
 College Data Model Diagram
 Department__c
       |
@@ -59,18 +60,18 @@ Student__c
       |
       v
 Attendance__c
-4. Formula Fields
-What is a Formula Field?
+#4. Formula Fields
+##What is a Formula Field?
 
 A Formula Field automatically calculates values using other fields.
 
-Example 1: Student Full Name
+##Example 1: Student Full Name
 
-Formula:
+##Formula:
 
 First_Name__c & " " & Last_Name__c
 
-Explanation:
+##Explanation:
 
 This formula combines the first name and last name into one field.
 
