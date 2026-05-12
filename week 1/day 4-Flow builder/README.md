@@ -109,3 +109,35 @@ Send Confirmation Email
 Update Student Status
    ↓
 End
+# 5. Manual vs Automated Process
+Manual Process
+Requires human effort
+Time consuming
+More chances of errors
+Difficult to manage repetitive tasks
+Example
+
+Admin manually sending emails to students.
+
+Automated Process
+Tasks run automatically
+Faster processing
+Reduces errors
+Easy to monitor
+Example
+
+Salesforce Flow automatically sends confirmation emails after form submission.
+
+# 6. Reflection - Why Automation Matters in Enterprise Systems
+
+Automation is important in enterprise systems because organizations handle large amounts of data and repetitive tasks daily. Manual processes consume time and may lead to errors.
+
+Using Salesforce Flow Builder helps companies:
+
+Save time
+Improve accuracy
+Reduce operational costs
+Improve customer service
+Increase productivity
+
+Automation allows employees to focus on important business activities instead of repetitive manual work. It improves overall efficiency and system reliability.
