@@ -112,44 +112,44 @@ End
 # 5. Manual vs Automated Process
 
 ## Manual Process
-In a manual process, employees perform tasks one by one without system automation. It requires more human effort and time.
+A manual process requires human effort to complete tasks. Employees perform each task step by step without automation.
 
-### Characteristics
-- Human work required
-- Time consuming
-- Higher chance of errors
-- Difficult to manage large data
-- Repetitive tasks
+### Features
+- Requires human work
+- Takes more time
+- Higher chance of mistakes
+- Difficult to manage repetitive tasks
+- Less efficient
 
 ### Example
-An admin manually sending confirmation emails to students after registration.
+An admin manually sending emails to students after registration.
 
 ---
 
 ## Automated Process
-In an automated process, the system performs tasks automatically using tools like Salesforce Flow Builder.
+An automated process uses Salesforce Flow Builder to complete tasks automatically without manual work.
 
-### Characteristics
-- Runs automatically
+### Features
+- Tasks run automatically
 - Saves time
 - Reduces errors
 - Faster processing
-- Easy monitoring and tracking
+- Easy to monitor
 
 ### Example
-Salesforce Flow automatically sends confirmation emails and updates student records after form submission.
+Salesforce automatically sends confirmation emails when a student submits a registration form.
 
 ---
 
 # 6. Reflection - Why Automation Matters in Enterprise Systems
 
-Automation plays an important role in enterprise systems because organizations handle large volumes of data and repetitive tasks every day. Manual processes are slow and may cause mistakes.
+Automation is very important in enterprise systems because companies handle large amounts of data and repetitive work every day. Manual processes consume time and can lead to errors.
 
-Using automation tools like Salesforce Flow Builder helps organizations:
+Using Salesforce Flow Builder helps organizations:
 - Improve productivity
 - Save employee time
-- Reduce manual errors
-- Improve customer experience
+- Reduce manual work
+- Improve accuracy
 - Increase business efficiency
 
-Automation also helps employees focus on important business decisions instead of repetitive work. It improves overall workflow management and system reliability in companies.
+Automation also improves customer service by providing faster responses and better process management. It helps employees focus on important business tasks instead of repetitive activities.
