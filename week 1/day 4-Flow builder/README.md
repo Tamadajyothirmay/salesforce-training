@@ -109,39 +109,39 @@ Send Confirmation Email
 Update Student Status
    ↓
 End
-# 5. Manual vs Automated Process
+ 5. Manual vs Automated Process
 
-## Manual Process
+ Manual Process
 A manual process requires human effort to complete tasks. Employees perform each task step by step without automation.
 
-### Features
+ Features
 - Requires human work
 - Takes more time
 - Higher chance of mistakes
 - Difficult to manage repetitive tasks
 - Less efficient
 
-### Example
+ Example
 An admin manually sending emails to students after registration.
 
 ---
 
-## Automated Process
+ Automated Process
 An automated process uses Salesforce Flow Builder to complete tasks automatically without manual work.
 
-### Features
+ Features
 - Tasks run automatically
 - Saves time
 - Reduces errors
 - Faster processing
 - Easy to monitor
 
-### Example
+Example:
 Salesforce automatically sends confirmation emails when a student submits a registration form.
 
 ---
 
-# 6. Reflection - Why Automation Matters in Enterprise Systems
+6. Reflection - Why Automation Matters in Enterprise Systems
 
 Automation is very important in enterprise systems because companies handle large amounts of data and repetitive work every day. Manual processes consume time and can lead to errors.
 
